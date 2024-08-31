@@ -1,0 +1,3 @@
+0 yorkshire terrier
+1 siberian husky
+2 cane corso
